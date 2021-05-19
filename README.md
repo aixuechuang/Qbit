@@ -1,6 +1,6 @@
 # qbit
 
-Blocks for Hiwonder Qbit
+Blocks for Qbit
 
 ## License
 
